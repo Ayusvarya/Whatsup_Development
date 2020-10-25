@@ -3,4 +3,5 @@ author:Ayusvarya Ramesh
 profile page code
 chat screen code
 last seen code
+hiding last seen
 Attachments(image,audio,video) code
